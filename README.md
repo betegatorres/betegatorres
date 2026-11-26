@@ -12,7 +12,7 @@
 
 ## 01. Sobre mim
 
-Olá! Sou **Matheus Torres Betega**, estudante de Informática na ETEC MCM, atualmente cursando o 2º ano do Ensino Médio.
+Estudante de Informática na ETEC MCM, atualmente cursando o 2º ano do Ensino Médio.
 
 Tenho interesse em tecnologia, programação e desenvolvimento de software. Gosto de aprender novas ferramentas, explorar diferentes tecnologias e colocar meus conhecimentos em prática.
 
