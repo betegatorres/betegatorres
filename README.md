@@ -62,11 +62,19 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e progra
 ---
 
 <div align="center">
+  <a href="https://www.instagram.com/matheus_.torres_/?next=%2Fmatheustorresmp3%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+<div align="center">
 
 **Aprendendo, evoluindo e construindo meu futuro na tecnologia.**
 
 <a href="https://github.com/betegatorres">
 <img src="https://img.shields.io/badge/GitHub-betegatorres-09090f?style=flat-square&logo=github&logoColor=white" />
 </a>
+
+
 
 </div>
